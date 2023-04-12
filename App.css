@@ -1,0 +1,41 @@
+body{
+  background-color:beige;
+}
+.body{
+  display: grid;
+margin-left: 30rem;
+margin-right: 30rem;
+background-color: aqua;
+font-style:oblique;
+border-radius: 0.30rem;
+}
+.inc{
+    background-color: green;
+    margin-bottom: 1rem;
+    color: white;
+    border-radius: 0.25rem;
+    font-size: 0.5cm;
+}
+.dec{
+  background-color: red;
+  margin-bottom: 1rem;
+  color:white;
+  border-radius: 0.25rem;
+    font-size: 0.5cm;
+}
+.res{
+  background-color: darkblue;
+  margin-bottom: 1rem;
+  color:white;
+  border-radius: 0.25rem;
+    font-size: 0.5cm;
+}
+.cnt{
+color: blue;
+margin-left: 8.5rem;
+}
+.co{
+  color:red;
+  margin-left: 8.5rem;
+  font-size: 0.75cm;
+}
